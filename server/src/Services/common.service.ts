@@ -7,12 +7,13 @@ export const sendMessageResponse = async (
   req: Request,
   res: Response,
   statusCode: number,
-  message: string
+  message: string | any[]
 ) => {
   try {
+    // console.log(message);
     return res.status(statusCode).json({
       statusCode,
-      message,
+      message: message,
     });
   } catch (error) {
     console.log("Getting error while send message response ::: ", error);

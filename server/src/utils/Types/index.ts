@@ -6,3 +6,13 @@ export enum StatusCode {
   UNAUTHORIZED = 401,
   INTERNAL_SERVER_ERROR = 500,
 }
+
+export interface IUserSignUp {
+  firstName?: string;
+  lastName?: string;
+  email?: string;
+  password?: string;
+  phone?: string | number;
+  createdAt?: Date;
+  updatedAt?: Date;
+}

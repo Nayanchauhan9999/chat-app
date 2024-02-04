@@ -6,3 +6,16 @@
 {"level":"error","message":"something went wrong while access home route , ReferenceError: StatusCode is not defined","timestamp":"2024-02-03T13:31:21.808Z"}
 {"level":"error","message":"something went wrong while access home route , ReferenceError: StatusCode is not defined","timestamp":"2024-02-03T13:32:00.531Z"}
 {"level":"error","message":"something went wrong while access home route , ReferenceError: sdfsd is not defined","timestamp":"2024-02-03T13:44:47.292Z"}
+{"level":"error","message":"","timestamp":"2024-02-04T10:45:35.442Z"}
+{"level":"error","message":"","timestamp":"2024-02-04T10:45:42.237Z"}
+{"level":"error","message":"error occoured while establish connect","timestamp":"2024-02-04T10:45:58.334Z"}
+{"level":"error","message":"error occoured while establish connection with databse","timestamp":"2024-02-04T10:46:02.432Z"}
+{"level":"error","message":"error occoured while establish connection with databse ::: MongoParseError: Invalid scheme, expected connection string to start with \"mongodb://\" or \"mongodb+srv://\"","timestamp":"2024-02-04T10:46:09.386Z"}
+{"level":"error","message":"error occoured while establish connection with databse ::: MongoParseError: Invalid scheme, expected connection string to start with \"mongodb://\" or \"mongodb+srv://\"","timestamp":"2024-02-04T10:47:30.488Z"}
+{"level":"error","message":"error occoured while establish connection with databse ::: MongoParseError: Invalid scheme, expected connection string to start with \"mongodb://\" or \"mongodb+srv://\"","timestamp":"2024-02-04T10:47:38.445Z"}
+{"level":"error","message":"error occoured while establish connection with databse ::: MongoParseError: Invalid scheme, expected connection string to start with \"mongodb://\" or \"mongodb+srv://\"","timestamp":"2024-02-04T10:47:58.220Z"}
+{"level":"error","message":"error occoured while establish connection with databse ::: MongoParseError: Invalid scheme, expected connection string to start with \"mongodb://\" or \"mongodb+srv://\"","timestamp":"2024-02-04T10:48:09.622Z"}
+{"level":"error","message":"error occoured while establish connection with databse ::: MongoParseError: Invalid scheme, expected connection string to start with \"mongodb://\" or \"mongodb+srv://\"","timestamp":"2024-02-04T10:48:15.390Z"}
+{"level":"error","message":"error occoured while establish connection with databse ::: MongoParseError: Invalid scheme, expected connection string to start with \"mongodb://\" or \"mongodb+srv://\"","timestamp":"2024-02-04T10:48:32.282Z"}
+{"level":"error","message":"Getting error while send message response, RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined","timestamp":"2024-02-04T11:50:18.986Z"}
+{"level":"error","message":"Getting error while send message response, RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined","timestamp":"2024-02-04T11:50:36.605Z"}
